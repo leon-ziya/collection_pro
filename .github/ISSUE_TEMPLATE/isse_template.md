@@ -1,3 +1,8 @@
+---
+name: issue_template
+about: test
+---
+
 # collection_pro
 采集项目
 # 测试
